@@ -1,0 +1,189 @@
+Ann's Final Report
+Competitor number 0 , Name : Ann sthen
+Ann sthen is a Female and his Game Type : Athletics
+Email : Ann@outlook
+Country : UK
+Ann is a Intermediate Aged 22 and received scores : [ 5.0 2.0 1.0 4.0 4.0 3.0 ] 
+Has an OverAllScore : 3.25
+Printing Ann Summary Statistics : 
+Total Score = 19.0
+Average = 3.1666666666666665
+Maximum Score = 5.0
+Minimum Score = 1.0
+Printing Ann Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 1
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+George's Final Report
+Competitor number 1 , Name : George Shon
+George Shon is a Male and his Game Type : Athletics
+Email : George@outlook
+Country : UK
+George is a Beginner  Aged 31 and received scores : [ 2.0 4.0 5.0 5.0 3.0 5.0 ] 
+Has an OverAllScore : 4.25
+Printing George Summary Statistics : 
+Total Score = 24.0
+Average = 4.0
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing George Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 1
+Frequency of Score 5 = 3
+
+
+Rinon's Final Report
+Competitor number 3 , Name : Rinon  Grov
+Rinon  Grov is a Male and his Game Type : Athletics
+Email : Rinon@outlook
+Country : US
+Rinon is a Beginner  Aged 25 and received scores : [ 1.0 1.0 5.0 4.0 2.0 2.0 ] 
+Has an OverAllScore : 2.25
+Printing Rinon Summary Statistics : 
+Total Score = 15.0
+Average = 2.5
+Maximum Score = 5.0
+Minimum Score = 1.0
+Printing Rinon Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 2
+Frequency of Score 2 = 2
+Frequency of Score 3 = 0
+Frequency of Score 4 = 1
+Frequency of Score 5 = 1
+
+
+Mark's Final Report
+Competitor number 4 , Name : Mark  Leno
+Mark  Leno is a Male and his Game Type : Athletics
+Email : Mark@outlook
+Country : UK
+Mark is a Beginner  Aged 22 and received scores : [ 5.0 3.0 4.0 2.0 4.0 3.0 ] 
+Has an OverAllScore : 3.5
+Printing Mark Summary Statistics : 
+Total Score = 21.0
+Average = 3.5
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Mark Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 2
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+Harry's Final Report
+Competitor number 5 , Name : Harry  Patrick
+Harry  Patrick is a Male and his Game Type : Athletics
+Email : Harry@outlook
+Country : UK
+Harry is a Beginner  Aged 32 and received scores : [ 2.0 4.0 5.0 3.0 3.0 5.0 ] 
+Has an OverAllScore : 3.75
+Printing Harry Summary Statistics : 
+Total Score = 22.0
+Average = 3.6666666666666665
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Harry Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 2
+Frequency of Score 4 = 1
+Frequency of Score 5 = 2
+
+
+Vicy's Final Report
+Competitor number 6 , Name : Vicy  Mathew
+Vicy  Mathew is a Male and his Game Type : Athletics
+Email : Vicy@outlook
+Country : UK
+Vicy is a Beginner  Aged 33 and received scores : [ 3.0 2.0 4.0 5.0 5.0 4.0 ] 
+Has an OverAllScore : 4.0
+Printing Vicy Summary Statistics : 
+Total Score = 23.0
+Average = 3.8333333333333335
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Vicy Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 2
+
+
+Monica's Final Report
+Competitor number 7 , Name : Monica  Loy
+Monica  Loy is a Female and his Game Type : Athletics
+Email : Monica@outlook
+Country : US
+Monica is a Intermediate Aged 29 and received scores : [ 4.0 4.0 5.0 2.0 2.0 2.0 ] 
+Has an OverAllScore : 3.0
+Printing Monica Summary Statistics : 
+Total Score = 19.0
+Average = 3.1666666666666665
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Monica Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 3
+Frequency of Score 3 = 0
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+Susan's Final Report
+Competitor number 8 , Name : Susan  Mathew
+Susan  Mathew is a Female and his Game Type : Athletics
+Email : Susan@outlook
+Country : US
+Susan is a Intermediate Aged 28 and received scores : [ 5.0 4.0 5.0 3.0 4.0 3.0 ] 
+Has an OverAllScore : 4.0
+Printing Susan Summary Statistics : 
+Total Score = 24.0
+Average = 4.0
+Maximum Score = 5.0
+Minimum Score = 3.0
+Printing Susan Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 0
+Frequency of Score 3 = 2
+Frequency of Score 4 = 2
+Frequency of Score 5 = 2
+
+
+Andy's Final Report
+Competitor number 9 , Name : Andy  Stov
+Andy  Stov is a Female and his Game Type : Athletics
+Email : Andy@outlook
+Country : US
+Andy is a Intermediate Aged 22 and received scores : [ 4.0 2.0 5.0 5.0 3.0 4.0 ] 
+Has an OverAllScore : 4.0
+Printing Andy Summary Statistics : 
+Total Score = 23.0
+Average = 3.8333333333333335
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Andy Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 2
+
+

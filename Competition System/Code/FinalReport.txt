@@ -1,0 +1,441 @@
+Ann's Final Report
+Competitor number 0 , Name : Ann sthen
+Ann sthen is a Female and his Game Type : Athletics
+Email : Ann@outlook
+Country : UK
+Ann is a Intermediate Aged 22 and received scores : [ 1.0 2.0 3.0 4.0 4.0 5.0 ] 
+Has an OverAllScore : 3.25
+Printing Ann Summary Statistics : 
+Total Score = 19.0
+Average = 3.1666666666666665
+Maximum Score = 5.0
+Minimum Score = 1.0
+Printing Ann Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 1
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+George's Final Report
+Competitor number 1 , Name : George Shon
+George Shon is a Male and his Game Type : Athletics
+Email : George@outlook
+Country : UK
+George is a Beginner  Aged 31 and received scores : [ 2.0 3.0 4.0 5.0 5.0 5.0 ] 
+Has an OverAllScore : 4.25
+Printing George Summary Statistics : 
+Total Score = 24.0
+Average = 4.0
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing George Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 1
+Frequency of Score 5 = 3
+
+
+Rinon's Final Report
+Competitor number 3 , Name : Rinon  Grov
+Rinon  Grov is a Male and his Game Type : Athletics
+Email : Rinon@outlook
+Country : US
+Rinon is a Beginner  Aged 25 and received scores : [ 1.0 1.0 2.0 2.0 4.0 5.0 ] 
+Has an OverAllScore : 2.25
+Printing Rinon Summary Statistics : 
+Total Score = 15.0
+Average = 2.5
+Maximum Score = 5.0
+Minimum Score = 1.0
+Printing Rinon Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 2
+Frequency of Score 2 = 2
+Frequency of Score 3 = 0
+Frequency of Score 4 = 1
+Frequency of Score 5 = 1
+
+
+Mark's Final Report
+Competitor number 4 , Name : Mark  Leno
+Mark  Leno is a Male and his Game Type : Athletics
+Email : Mark@outlook
+Country : UK
+Mark is a Beginner  Aged 22 and received scores : [ 2.0 3.0 3.0 4.0 4.0 5.0 ] 
+Has an OverAllScore : 3.5
+Printing Mark Summary Statistics : 
+Total Score = 21.0
+Average = 3.5
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Mark Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 2
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+Harry's Final Report
+Competitor number 5 , Name : Harry  Patrick
+Harry  Patrick is a Male and his Game Type : Athletics
+Email : Harry@outlook
+Country : UK
+Harry is a Beginner  Aged 32 and received scores : [ 2.0 3.0 3.0 4.0 5.0 5.0 ] 
+Has an OverAllScore : 3.75
+Printing Harry Summary Statistics : 
+Total Score = 22.0
+Average = 3.6666666666666665
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Harry Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 2
+Frequency of Score 4 = 1
+Frequency of Score 5 = 2
+
+
+Vicy's Final Report
+Competitor number 6 , Name : Vicy  Mathew
+Vicy  Mathew is a Male and his Game Type : Athletics
+Email : Vicy@outlook
+Country : UK
+Vicy is a Beginner  Aged 33 and received scores : [ 2.0 3.0 4.0 4.0 5.0 5.0 ] 
+Has an OverAllScore : 4.0
+Printing Vicy Summary Statistics : 
+Total Score = 23.0
+Average = 3.8333333333333335
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Vicy Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 2
+
+
+Monica's Final Report
+Competitor number 7 , Name : Monica  Loy
+Monica  Loy is a Female and his Game Type : Athletics
+Email : Monica@outlook
+Country : US
+Monica is a Intermediate Aged 29 and received scores : [ 2.0 2.0 2.0 4.0 4.0 5.0 ] 
+Has an OverAllScore : 3.0
+Printing Monica Summary Statistics : 
+Total Score = 19.0
+Average = 3.1666666666666665
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Monica Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 3
+Frequency of Score 3 = 0
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+Susan's Final Report
+Competitor number 8 , Name : Susan  Mathew
+Susan  Mathew is a Female and his Game Type : Athletics
+Email : Susan@outlook
+Country : US
+Susan is a Intermediate Aged 28 and received scores : [ 3.0 3.0 4.0 4.0 5.0 5.0 ] 
+Has an OverAllScore : 4.0
+Printing Susan Summary Statistics : 
+Total Score = 24.0
+Average = 4.0
+Maximum Score = 5.0
+Minimum Score = 3.0
+Printing Susan Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 0
+Frequency of Score 3 = 2
+Frequency of Score 4 = 2
+Frequency of Score 5 = 2
+
+
+Andy's Final Report
+Competitor number 9 , Name : Andy  Stov
+Andy  Stov is a Female and his Game Type : Athletics
+Email : Andy@outlook
+Country : US
+Andy is a Intermediate Aged 22 and received scores : [ 2.0 3.0 4.0 4.0 5.0 5.0 ] 
+Has an OverAllScore : 4.0
+Printing Andy Summary Statistics : 
+Total Score = 23.0
+Average = 3.8333333333333335
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Andy Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 2
+
+
+Hassan's Final Report
+Competitor number : 10 , Name : Hassan Sayed
+Hassan Sayed is a Male and his Game Type : Boxing
+Email : Hassan@gmail
+Country : Egypt
+Hassan is a Beginner Aged 22 and received scores : [ 3.0 , 3.0 , 3.0 , 3.0 , 3.0 , ] 
+Has an OverAllScore : 3.0
+Printing Hassan Summary Statistics : 
+Total Score = 15.0
+Average = 3.0
+Maximum Score = 3.0
+Minimum Score = 3.0
+Printing Hassan Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 0
+Frequency of Score 3 = 5
+Frequency of Score 4 = 0
+Frequency of Score 5 = 0
+
+
+Jomon's Final Report
+Competitor number : 11 , Name : Jomon  Vicy
+Jomon  Vicy is a Male and his Game Type : Boxing
+Email : Jomon@outlook
+Country : UK
+Jomon is a Intermediate Aged 22 and received scores : [ 2.0 , 3.0 , 3.0 , 4.0 , 5.0 , ] 
+Has an OverAllScore : 3.3333333333333335
+Printing Jomon Summary Statistics : 
+Total Score = 17.0
+Average = 3.4
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Jomon Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 2
+Frequency of Score 4 = 1
+Frequency of Score 5 = 1
+
+
+Catherin's Final Report
+Competitor number : 12 , Name : Catherin  George
+Catherin  George is a Male and his Game Type : Boxing
+Email : Catherin@outlook
+Country : UAE
+Catherin is a Intermediate Aged 20 and received scores : [ 1.0 , 2.0 , 4.0 , 4.0 , 5.0 , ] 
+Has an OverAllScore : 3.3333333333333335
+Printing Catherin Summary Statistics : 
+Total Score = 16.0
+Average = 3.2
+Maximum Score = 5.0
+Minimum Score = 1.0
+Printing Catherin Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 1
+Frequency of Score 2 = 1
+Frequency of Score 3 = 0
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+Aby's Final Report
+Competitor number : 13 , Name : Aby  Mathew
+Aby  Mathew is a Male and his Game Type : Boxing
+Email : Aby@outlook
+Country : UK
+Aby is a Intermediate Aged 34 and received scores : [ 2.0 , 2.0 , 3.0 , 4.0 , 5.0 , ] 
+Has an OverAllScore : 3.0
+Printing Aby Summary Statistics : 
+Total Score = 16.0
+Average = 3.2
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Aby Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 2
+Frequency of Score 3 = 1
+Frequency of Score 4 = 1
+Frequency of Score 5 = 1
+
+
+Jojo's Final Report
+Competitor number : 14 , Name : Jojo  Mony
+Jojo  Mony is a Male and his Game Type : Boxing
+Email : Jojo@outlook
+Country : UK
+Jojo is a Professional Aged 31 and received scores : [ 2.0 , 3.0 , 4.0 , 4.0 , 5.0 , ] 
+Has an OverAllScore : 3.6666666666666665
+Printing Jojo Summary Statistics : 
+Total Score = 18.0
+Average = 3.6
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Jojo Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+Methen's Final Report
+Competitor number : 15 , Name : Methen  George
+Methen  George is a Male and his Game Type : Boxing
+Email : Methen@outlook
+Country : UK
+Methen is a Professional Aged 30 and received scores : [ 3.0 , 3.0 , 4.0 , 4.0 , 5.0 , ] 
+Has an OverAllScore : 3.6666666666666665
+Printing Methen Summary Statistics : 
+Total Score = 19.0
+Average = 3.8
+Maximum Score = 5.0
+Minimum Score = 3.0
+Printing Methen Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 0
+Frequency of Score 3 = 2
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+Scarlett's Final Report
+Competitor number : 16 , Name : Scarlett  John
+Scarlett  John is a Female and his Game Type : Boxing
+Email : Scarlett@outlook
+Country : UK
+Scarlett is a Professional Aged 25 and received scores : [ 3.0 , 3.0 , 4.0 , 5.0 , 5.0 , ] 
+Has an OverAllScore : 4.0
+Printing Scarlett Summary Statistics : 
+Total Score = 20.0
+Average = 4.0
+Maximum Score = 5.0
+Minimum Score = 3.0
+Printing Scarlett Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 0
+Frequency of Score 3 = 2
+Frequency of Score 4 = 1
+Frequency of Score 5 = 2
+
+
+Patrick 's Final Report
+Competitor number : 17 , Name : Patrick  Shanon
+Patrick  Shanon is a Male and his Game Type : Boxing
+Email : Patrick@outlook
+Country : US
+Patrick  is a Professional Aged 22 and received scores : [ 2.0 , 3.0 , 4.0 , 4.0 , 5.0 , ] 
+Has an OverAllScore : 3.6666666666666665
+Printing Patrick  Summary Statistics : 
+Total Score = 18.0
+Average = 3.6
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Patrick  Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
+Rod's Final Report
+Competitor number : 18 , Name : Rod  Stod
+Rod  Stod is a Male and his Game Type : Boxing
+Email : Rod@outlook
+Country : UK
+Rod is a Professional Aged 26 and received scores : [ 2.0 , 4.0 , 4.0 , 4.0 , 5.0 , ] 
+Has an OverAllScore : 4.0
+Printing Rod Summary Statistics : 
+Total Score = 19.0
+Average = 3.8
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Rod Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 0
+Frequency of Score 4 = 3
+Frequency of Score 5 = 1
+
+
+Lijo's Final Report
+Competitor number : 19 , Name : Lijo  Willams
+Lijo  Willams is a Male and his Game Type : Boxing
+Email : Lijo@outlook
+Country : UK
+Lijo is a Professional Aged 28 and received scores : [ 2.0 , 3.0 , 3.0 , 5.0 , 5.0 , ] 
+Has an OverAllScore : 3.6666666666666665
+Printing Lijo Summary Statistics : 
+Total Score = 18.0
+Average = 3.6
+Maximum Score = 5.0
+Minimum Score = 2.0
+Printing Lijo Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 1
+Frequency of Score 3 = 2
+Frequency of Score 4 = 0
+Frequency of Score 5 = 2
+
+
+Mohamed's Final Report
+Competitor number : 20 , Name : Mohamed Khaled
+Mohamed Khaled is a Male and his Game Type : Boxing
+Email : mohamed@outlook
+Country : Egypt
+Mohamed is a Intermediate Aged 23 and received scores : [ 5.0 , 5.0 , 5.0 , 5.0 , 5.0 , ] 
+Has an OverAllScore : 5.0
+Printing Mohamed Summary Statistics : 
+Total Score = 25.0
+Average = 5.0
+Maximum Score = 5.0
+Minimum Score = 5.0
+Printing Mohamed Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 0
+Frequency of Score 2 = 0
+Frequency of Score 3 = 0
+Frequency of Score 4 = 0
+Frequency of Score 5 = 5
+
+
+A's Final Report
+Competitor number : 140 , Name : A B
+A B is a Male and his Game Type : Boxing
+Email : A@gmail
+Country : UK
+A is a Beginner Aged 22 and received scores : [ 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , ] 
+Has an OverAllScore : 0.0
+Printing A Summary Statistics : 
+Total Score = 0.0
+Average = 0.0
+Maximum Score = 0.0
+Minimum Score = 0.0
+Printing A Frequency Statistics : 
+Frequency of Score 0 = 5
+Frequency of Score 1 = 0
+Frequency of Score 2 = 0
+Frequency of Score 3 = 0
+Frequency of Score 4 = 0
+Frequency of Score 5 = 0
+
+

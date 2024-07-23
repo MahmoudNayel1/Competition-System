@@ -1,0 +1,21 @@
+Ann's Final Report
+Competitor number 0 , Name : Ann sthen
+Ann sthen is a Female and his Game Type : Athletics
+Email : Ann@outlook
+Country : UK
+Ann is a Intermediate Aged 22 and received scores : [ 1.0 2.0 3.0 4.0 4.0 5.0 ] 
+Has an OverAllScore : 3.25
+Printing Ann Summary Statistics : 
+Total Score = 19.0
+Average = 3.1666666666666665
+Maximum Score = 5.0
+Minimum Score = 1.0
+Printing Ann Frequency Statistics : 
+Frequency of Score 0 = 0
+Frequency of Score 1 = 1
+Frequency of Score 2 = 1
+Frequency of Score 3 = 1
+Frequency of Score 4 = 2
+Frequency of Score 5 = 1
+
+
